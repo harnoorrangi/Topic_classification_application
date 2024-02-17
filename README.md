@@ -1,1 +1,1 @@
-# NLP_classification_application_MLOPS
+# Topic classification application using finetuned BERT model.
